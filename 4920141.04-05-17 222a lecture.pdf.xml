@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/markham/Documents/School/ECS 222A/04-05-17 222a lecture.pdf">
+ <pageList>
+  <page number="1">
+   <annotationList>
+    <annotation type="1">
+     <base flags="4" creationDate="2017-04-06T10:27:57" uniqueName="okular-{ecadfb53-3794-42c6-b1b7-86360ebecef2}" author="markham" contents="Bellman Ford" modifyDate="2017-04-06T10:27:57" color="#ffff00">
+      <boundary l="0.0425676" r="0.158376" b="0.274478" t="0.254574"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Inline Note" top="0"/>
+     </base>
+     <text icon="Comment" type="1"/>
+    </annotation>
+    <annotation type="1">
+     <base flags="4" creationDate="2017-04-06T10:29:05" uniqueName="okular-{9ffcf3a3-b667-482e-a35a-d513a285321e}" author="markham" contents="Subinstance n-k is used Fib(n-k+1) times" modifyDate="2017-04-06T10:29:05" color="#ffff00">
+      <boundary l="0.817568" r="0.970237" b="0.783964" t="0.731835"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Inline Note" top="0"/>
+     </base>
+     <text icon="Comment" type="1"/>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="2">
+   <annotationList>
+    <annotation type="1">
+     <base flags="4" creationDate="2017-04-06T10:30:31" uniqueName="okular-{2aefc7f8-b0c4-4719-8922-fb560f978a18}" author="markham" contents="|E| and |V| in terms of n a.k.a |V|" modifyDate="2017-04-06T10:30:31" color="#ffff00">
+      <boundary l="0.530405" r="0.79559" b="0.302706" t="0.282802"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Inline Note" top="0"/>
+     </base>
+     <text icon="Comment" type="1"/>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="2;C2:0.499662:0.174856:1"/>
+   <oldPage viewport="1;C2:0.499662:0.148197:1"/>
+   <oldPage viewport="0;C2:0.499662:1.00026:1"/>
+   <oldPage viewport="1;C2:0.499662:0.340565:1"/>
+   <oldPage viewport="0;C2:0.499662:0.830371:1"/>
+   <oldPage viewport="1;C2:0.499662:0.340565:1"/>
+   <oldPage viewport="0;C2:0.499662:0.830371:1"/>
+   <oldPage viewport="1;C2:0.499662:1.00235:1"/>
+   <oldPage viewport="2;C2:0.499662:-0.00235233:1"/>
+   <oldPage viewport="1;C2:0.499662:0.996079:1"/>
+   <current viewport="2;C2:0.499662:0.323314:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.81373"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

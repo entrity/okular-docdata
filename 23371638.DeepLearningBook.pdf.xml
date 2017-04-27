@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/markham/Documents/School/NPB211/DeepLearningBook.pdf">
+ <pageList>
+  <page number="61">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:23:32" uniqueName="okular-61-4" author="markham" modifyDate="2017-04-14T11:23:32" color="#ffff00">
+      <boundary l="0.118421" r="0.87688" b="0.836483" t="0.800145"/>
+     </base>
+     <hl>
+      <quad dx="0.169935" cx="0.877451" dy="0.800505" bx="0.877451" cy="0.800505" ax="0.169935" by="0.816919" ay="0.816919" feather="1"/>
+      <quad dx="0.119281" cx="0.176471" dy="0.820707" bx="0.176471" cy="0.820707" ax="0.119281" by="0.837121" ay="0.837121" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="1">
+     <base flags="0" creationDate="2017-04-14T11:23:48" uniqueName="okular-61-5" author="markham" contents="see fig on pg 43" modifyDate="2017-04-14T11:23:48" color="#ffff00">
+      <boundary l="0.860902" r="0.994455" b="0.746609" t="0.704942"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Inline Note" top="0"/>
+     </base>
+     <text icon="Note" type="1"/>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="75">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:42:02" uniqueName="okular-75-1" author="markham" modifyDate="2017-04-14T11:42:02" color="#ffff00">
+      <boundary l="0.118421" r="0.87688" b="0.71657" t="0.659884"/>
+     </base>
+     <hl>
+      <quad dx="0.529412" cx="0.875817" dy="0.660354" bx="0.875817" cy="0.660354" ax="0.529412" by="0.676768" ay="0.676768" feather="1"/>
+      <quad dx="0.119281" cx="0.877451" dy="0.680556" bx="0.877451" cy="0.680556" ax="0.119281" by="0.69697" ay="0.69697" feather="1"/>
+      <quad dx="0.119281" cx="0.699346" dy="0.700758" bx="0.699346" cy="0.700758" ax="0.119281" by="0.717172" ay="0.717172" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:42:13" uniqueName="okular-75-2" author="markham" modifyDate="2017-04-14T11:42:13" color="#ffff00">
+      <boundary l="0.118421" r="0.875" b="0.503634" t="0.465843"/>
+     </base>
+     <hl>
+      <quad dx="0.194444" cx="0.875817" dy="0.465909" bx="0.875817" cy="0.465909" ax="0.194444" by="0.482323" ay="0.482323" feather="1"/>
+      <quad dx="0.119281" cx="0.573529" dy="0.486111" bx="0.573529" cy="0.486111" ax="0.119281" by="0.503788" ay="0.503788" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="76">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:39:56" uniqueName="okular-76-1" author="markham" modifyDate="2017-04-14T11:39:56" color="#ffff00">
+      <boundary l="0.115602" r="0.875" b="0.797965" t="0.759448"/>
+     </base>
+     <hl>
+      <quad dx="0.560458" cx="0.875817" dy="0.760101" bx="0.875817" cy="0.760101" ax="0.560458" by="0.776515" ay="0.776515" feather="1"/>
+      <quad dx="0.116013" cx="0.403595" dy="0.780303" bx="0.403595" cy="0.780303" ax="0.116013" by="0.79798" ay="0.79798" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:42:38" uniqueName="okular-76-2" author="markham" modifyDate="2017-04-14T11:42:38" color="#ffff00">
+      <boundary l="0.159774" r="0.87218" b="0.50218" t="0.485465"/>
+     </base>
+     <hl>
+      <quad dx="0.160131" cx="0.872549" dy="0.486111" bx="0.872549" cy="0.486111" ax="0.160131" by="0.502525" ay="0.502525" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="79">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:45:59" uniqueName="okular-79-1" author="markham" modifyDate="2017-04-14T11:45:59" color="#ffff00">
+      <boundary l="0.418233" r="0.591165" b="0.153343" t="0.137355"/>
+     </base>
+     <hl>
+      <quad dx="0.418301" cx="0.591503" dy="0.137626" bx="0.591503" cy="0.137626" ax="0.418301" by="0.15404" ay="0.15404" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="1">
+     <base flags="0" creationDate="2017-04-14T11:46:07" uniqueName="okular-79-2" author="markham" contents="inverse of covariance matrix Sigma" modifyDate="2017-04-14T11:46:07" color="#ffff00">
+      <boundary l="0.617481" r="0.647481" b="0.17218" t="0.148983"/>
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0"/>
+     </base>
+     <text icon="Note"/>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="80">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-14T11:51:52" uniqueName="okular-80-1" author="markham" modifyDate="2017-04-14T11:51:52" color="#ffff00">
+      <boundary l="0.119116" r="0.877041" b="0.68003" t="0.623608"/>
+     </base>
+     <hl>
+      <quad dx="0.346405" cx="0.877451" dy="0.623737" bx="0.877451" cy="0.623737" ax="0.346405" by="0.640152" ay="0.640152" feather="1"/>
+      <quad dx="0.119281" cx="0.877451" dy="0.643939" bx="0.877451" cy="0.643939" ax="0.119281" by="0.660354" ay="0.660354" feather="1"/>
+      <quad dx="0.119281" cx="0.338235" dy="0.664141" bx="0.338235" cy="0.664141" ax="0.119281" by="0.680556" ay="0.680556" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="87">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:02:15" uniqueName="okular-87-1" author="markham" modifyDate="2017-04-18T11:02:15" color="#ffff00">
+      <boundary l="0.728146" r="0.87512" b="0.66147" t="0.645137"/>
+     </base>
+     <hl>
+      <quad dx="0.728758" cx="0.875817" dy="0.645202" bx="0.875817" cy="0.645202" ax="0.728758" by="0.661616" ay="0.661616" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="88">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:01:56" uniqueName="okular-88-1" author="markham" modifyDate="2017-04-18T11:01:56" color="#ffff00">
+      <boundary l="0.147935" r="0.46878" b="0.847068" t="0.830735"/>
+     </base>
+     <hl>
+      <quad dx="0.148693" cx="0.468954" dy="0.830808" bx="0.468954" cy="0.830808" ax="0.148693" by="0.847222" ay="0.847222" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:02:04" uniqueName="okular-88-2" author="markham" modifyDate="2017-04-18T11:02:04" color="#ffff00">
+      <boundary l="0.690682" r="0.852065" b="0.561247" t="0.544915"/>
+     </base>
+     <hl>
+      <quad dx="0.691176" cx="0.852941" dy="0.545455" bx="0.852941" cy="0.545455" ax="0.691176" by="0.561869" ay="0.561869" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="89">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:04:09" uniqueName="okular-89-1" author="markham" modifyDate="2017-04-18T11:04:09" color="#ffff00">
+      <boundary l="0.119116" r="0.877041" b="0.324425" t="0.286563"/>
+     </base>
+     <hl>
+      <quad dx="0.480392" cx="0.877451" dy="0.286616" bx="0.877451" cy="0.286616" ax="0.480392" by="0.304293" ay="0.304293" feather="1"/>
+      <quad dx="0.119281" cx="0.462418" dy="0.308081" bx="0.462418" cy="0.308081" ax="0.119281" by="0.324495" ay="0.324495" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:04:11" uniqueName="okular-89-2" author="markham" modifyDate="2017-04-18T11:04:11" color="#ffff00">
+      <boundary l="0.415946" r="0.489914" b="0.303638" t="0.286563"/>
+     </base>
+     <hl>
+      <quad dx="0.416667" cx="0.490196" dy="0.286616" bx="0.490196" cy="0.286616" ax="0.416667" by="0.304293" ay="0.304293" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:04:21" uniqueName="okular-89-3" author="markham" modifyDate="2017-04-18T11:04:21" color="#ffff00">
+      <boundary l="0.751201" r="0.87512" b="0.411284" t="0.394952"/>
+     </base>
+     <hl>
+      <quad dx="0.751634" cx="0.875817" dy="0.395202" bx="0.875817" cy="0.395202" ax="0.751634" by="0.411616" ay="0.411616" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="94">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:11:28" uniqueName="okular-94-1" author="markham" modifyDate="2017-04-18T11:11:28" color="#ffff00">
+      <boundary l="0.119116" r="0.879923" b="0.873051" t="0.815145"/>
+     </base>
+     <hl>
+      <quad dx="0.80719" cx="0.880719" dy="0.815657" bx="0.880719" cy="0.815657" ax="0.80719" by="0.833333" ay="0.833333" feather="1"/>
+      <quad dx="0.119281" cx="0.651961" dy="0.837121" bx="0.651961" cy="0.837121" ax="0.119281" by="0.853535" ay="0.853535" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="95">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:12:02" uniqueName="okular-95-1" author="markham" modifyDate="2017-04-18T11:12:02" color="#ffff00">
+      <boundary l="0.115274" r="0.87512" b="0.231626" t="0.182628"/>
+     </base>
+     <hl>
+      <quad dx="0.728758" cx="0.875817" dy="0.183081" bx="0.875817" cy="0.183081" ax="0.728758" by="0.199495" ay="0.199495" feather="1"/>
+      <quad dx="0.116013" cx="0.789216" dy="0.203283" bx="0.789216" cy="0.203283" ax="0.116013" by="0.232323" ay="0.232323" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="96">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:16:05" uniqueName="okular-96-1" author="markham" modifyDate="2017-04-18T11:16:05" color="#ffff00">
+      <boundary l="0.119116" r="0.879923" b="0.472903" t="0.39124"/>
+     </base>
+     <hl>
+      <quad dx="0.818627" cx="0.875817" dy="0.391414" bx="0.875817" cy="0.391414" ax="0.818627" by="0.453283" ay="0.453283" feather="1"/>
+      <quad dx="0.119281" cx="0.880719" dy="0.457071" bx="0.880719" cy="0.457071" ax="0.119281" by="0.473485" ay="0.473485" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:16:57" uniqueName="okular-96-2" author="markham" modifyDate="2017-04-18T11:16:57" color="#ffff00">
+      <boundary l="0.119116" r="0.87512" b="0.908686" t="0.860431"/>
+     </base>
+     <hl>
+      <quad dx="0.119281" cx="0.687908" dy="0.877525" bx="0.687908" cy="0.877525" ax="0.119281" by="0.89899" ay="0.89899" feather="1"/>
+      <quad dx="0.228758" cx="0.246732" dy="0.881313" bx="0.246732" cy="0.881313" ax="0.228758" by="0.909091" ay="0.909091" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="101">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:25:58" uniqueName="okular-101-1" author="markham" modifyDate="2017-04-18T11:25:58" color="#ffff00">
+      <boundary l="0.119116" r="0.653218" b="0.71418" t="0.697847"/>
+     </base>
+     <hl>
+      <quad dx="0.119281" cx="0.653595" dy="0.698232" bx="0.653595" cy="0.698232" ax="0.119281" by="0.714646" ay="0.714646" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:26:12" uniqueName="okular-101-2" author="markham" modifyDate="2017-04-18T11:26:12" color="#ffff00">
+      <boundary l="0.115274" r="0.877041" b="0.625835" t="0.567929"/>
+     </base>
+     <hl>
+      <quad dx="0.803922" cx="0.875817" dy="0.568182" bx="0.875817" cy="0.568182" ax="0.803922" by="0.585859" ay="0.585859" feather="1"/>
+      <quad dx="0.119281" cx="0.877451" dy="0.589646" bx="0.877451" cy="0.589646" ax="0.119281" by="0.606061" ay="0.606061" feather="1"/>
+      <quad dx="0.116013" cx="0.263072" dy="0.609848" bx="0.263072" cy="0.609848" ax="0.116013" by="0.626263" ay="0.626263" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-18T11:26:57" uniqueName="okular-101-3" author="markham" modifyDate="2017-04-18T11:26:57" color="#ffff00">
+      <boundary l="0.119116" r="0.881844" b="0.888641" t="0.82925"/>
+     </base>
+     <hl>
+      <quad dx="0.51634" cx="0.874183" dy="0.872475" bx="0.874183" cy="0.872475" ax="0.51634" by="0.888889" ay="0.888889" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="154">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-27T10:39:36" uniqueName="okular-{289579d6-2c68-4bd4-8260-617535fea337}" author="markham" modifyDate="2017-04-27T10:39:36" color="#ffff00">
+      <boundary l="0.119154" r="0.877002" b="0.909316" t="0.872151"/>
+     </base>
+     <hl>
+      <quad dx="0.779817" cx="0.877294" dy="0.872227" bx="0.877294" cy="0.872227" ax="0.779817" by="0.889086" ay="0.889086" feather="1"/>
+      <quad dx="0.119266" cx="0.727064" dy="0.889086" bx="0.727064" cy="0.889086" ax="0.119266" by="0.909494" ay="0.909494" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="155">
+   <annotationList>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-27T10:39:41" uniqueName="okular-{a6e3e668-0282-41d1-8c2d-5cd68a4f1634}" author="markham" modifyDate="2017-04-27T10:39:41" color="#ffff00">
+      <boundary l="0.119154" r="0.877002" b="0.133796" t="0.0966303"/>
+     </base>
+     <hl>
+      <quad dx="0.497706" cx="0.877294" dy="0.0967169" bx="0.877294" cy="0.0967169" ax="0.497706" by="0.113576" ay="0.113576" feather="1"/>
+      <quad dx="0.119266" cx="0.332569" dy="0.117125" bx="0.332569" cy="0.117125" ax="0.119266" by="0.133984" ay="0.133984" feather="1"/>
+     </hl>
+    </annotation>
+    <annotation type="4">
+     <base flags="0" creationDate="2017-04-27T10:42:05" uniqueName="okular-{85b0107e-8b59-4392-84e5-ede5e5a0342c}" author="markham" modifyDate="2017-04-27T10:42:05" color="#ffff00">
+      <boundary l="0.7713" r="0.880205" b="0.199207" t="0.18335"/>
+     </base>
+     <hl>
+      <quad dx="0.771789" cx="0.880734" dy="0.183673" bx="0.880734" cy="0.183673" ax="0.771789" by="0.199645" ay="0.199645" feather="1"/>
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="101;C2:0.499662:0.516205:1"/>
+   <oldPage viewport="102;C2:0.499662:0.0117616:1"/>
+   <oldPage viewport="101;C2:0.499662:0.516205:1"/>
+   <oldPage viewport="102;C2:0.499662:0.513591:1"/>
+   <oldPage viewport="103;C2:0.499662:0.510978:1"/>
+   <oldPage viewport="104;C2:0.499662:0.508364:1"/>
+   <oldPage viewport="105;C2:0.499662:0.50575:1"/>
+   <oldPage viewport="106;C2:0.499662:0.00130685:1"/>
+   <oldPage viewport="153;C2:0.499318:1.00475:1"/>
+   <oldPage viewport="154;C2:0.49968:1.00173:1"/>
+   <current viewport="155;C2:0.49968:0.203915:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.91299"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>
